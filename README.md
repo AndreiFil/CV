@@ -1,3 +1,3 @@
 # CV
 
-![CV_Filipovich!](F:\1_QA\QA\QA_Ksendzev\git_test\CV\CV.JPG)
+![CV_Filipovich!](https://github.com/AndreiFil/CV/blob/main/CV.JPG)
